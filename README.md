@@ -6,6 +6,11 @@ This character-driven game is designed for middle-school and early high-school s
 It is currently in active development.
 More information will be provided here soon.
 
+## Workshop
+
+Teachers and other educators may be interested in [a workshop format](workshop.md) that 
+can be used along with the game to get kids talking about STEM career paths.
+
 ## Credits
 
 The game is being developed by an undergraduate research team led by
