@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme
 
 title: The STEM Career Paths Game
-description: 
+description: An educational game for middle-schoolers
 show_downloads: false
