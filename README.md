@@ -1,6 +1,6 @@
 # STEM Career Paths Game
 
-Play the [STEM Career Paths Game](https://stem-careers-game.github.io/stem_career_paths) now!
+Play the [STEM Career Paths Game](https://stem-career-paths.github.io/game) now!
 
 This character-driven game is designed for middle-school and early high-school students.
 It is currently in active development.
