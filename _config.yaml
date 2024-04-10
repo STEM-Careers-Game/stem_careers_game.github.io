@@ -1,8 +1,0 @@
-remote_theme: pages-themes/tactile@v0.2.0
-plugins:
-- jekyll-remote-theme
-
-title: The STEM Career Paths Game
-description: An educational game for middle-schoolers
-show_downloads: false
-google_analytics: [G-V08527P8FB]

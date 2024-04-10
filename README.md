@@ -38,8 +38,10 @@ Indiana Space Grant Consortium.
 
 ## Legal
 
+<p>
 _The STEM Career Paths Game_ is free software, licensed under
 the [GNU General Public License Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html).
-You can find the source code at https://github.com/stem-career-paths/game.
+You can find the source code at <a href="https://github.com/stem-career-paths/game">https://github.com/stem-career-paths/game</a>.
+</p>
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://stem-careers-game.github.io/">The STEM Career Paths Game website</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.cs.bsu.edu/~pvgestwicki/">Paul Gestwicki</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
