@@ -4,12 +4,12 @@ Play the [STEM Career Paths Game](https://stemcareerpaths.org/game) now!
 
 ## About the Game
 
+Take on the role of a new high school student who interacts with a cast
+of characters, including classmates and teachers. What happens to your
+character after high school is up to you: Every choice impacts the future! 
+
 The STEM Career Paths Game is a character-driven game designed for middle-school
 and early high-school players. It can be played alone or with friends.
-
-In the game, you are a new high school student. You will interact with a cast
-of characters, including classmates and teachers. What kind of outcome will
-your decisions have on your character's future?
 
 ## For Teachers
 
@@ -20,6 +20,12 @@ mouse input.
 - Students can play it as a single-player game on their own
 - Students can play in small groups, discussing their goals and making decisions together
 - You can play it as part of a larger lesson on STEM careers
+
+The game is played entirely in the browser. Make sure your IT system has whitelisted the
+game's domain so that it will load on your school's network.
+
+The prerelease version of the game available now does not support iOS devices. We are hoping
+to fix this by the end of April 2024.
 
 ## Credits
 
