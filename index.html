@@ -48,6 +48,15 @@
         .call-to-action {
             text-align: center;
         }
+
+	p.question {
+	    font-weight: 600;
+	}
+
+	p.answer {
+	    padding-bottom: 1em;
+	}
+
     </style>
 </head>
 
@@ -95,6 +104,55 @@
             game's domain so that it will load on your school's network.
         </p>
 
+	<h2>FAQ</h2>
+	<p class="question">
+	  When I try to load the game, it says that features required to run Godot projects on the Web are missing, including Cross Origin Isolation and SharedArrayBuffer. What should I do?
+	</p>
+	<p class="answer">
+	  Please reload the page, and then it should work.
+	</p>
+
+	<p class="question">
+	  What should I do if the game loads for some time and then stops?
+	</p>
+	<p class="answer">
+	  Please try another browser. We have had the best luck with
+	  Chromium-based browsers such as Google Chrome. 
+	</p>
+
+	<p class="question">
+	  Why can't I play on an iPad or iPhone?
+	</p>
+	<p class="answer">
+	  Sorry, we cannot support iPad and iPhone devices.
+	  There is an open problem with the technology we used
+	  to make the game where the Web-based renderer is not supported
+	  by Apple's mobile technology;
+	  the problem is mentioned <a href="https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_web.html">in the Godot Engine
+	    documentation</a>.
+	  If that gets fixed, we should be able to update our game
+	  to support these devices, but until then, it is out of our hands.
+	</p>
+
+	<p class="question">
+	  How can I put my own stories into the game?
+	</p>
+	<p class="answer">
+	  Our game is open source! You can download
+	  <a href="https://github.com/stem-career-paths/game">the
+	  complete source code to the game from GitHub</a>. Adding new
+	  stories requires a little bit of programming knowledge, but
+	  you can get started by looking at the files in
+	  the <code>stories/starting_stories</code> folder.  If you
+	  simply copy one of those and tweak it, you should see the
+	  story show up in your local game.  Because our game
+	  is <a href="https://www.gnu.org/philosophy/free-sw.en.html">free
+	  software</a>, you can make any changes you want and release
+	  your own version, as long as your own version remains
+	  free. See <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">the
+	  license</a> for complete legal details.
+	</p>
+	
 
         <h2>Credits</h2>
 
@@ -111,7 +169,7 @@
             <i>The STEM Career Paths Game</i> is free software, licensed under
             the
             <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License Version 3</a>.
-            You can find the source code at https://github.com/stem-career-paths/game.
+            You can find the source code at <a href="https://github.com/stem-career-paths/game">https://github.com/stem-career-paths/game</a>.
         </p>
 
         <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title"
